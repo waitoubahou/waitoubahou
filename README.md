@@ -1,0 +1,8 @@
+-  Hi, I’m @waitoubahou, aka Wassim! 👋
+-  I'm currently undergoing a MEng in Aerospace Engineering 👀 
+-  I’m interested in computational fluid dynamics (CFD) using ANSYS package 🚀
+-  I'm also ethusiastic over decentralized computing project, such as Urbit 🌱
+-  Beside, I'm keen to learn more about machine learning, generative adversarial network (GAN) in particular 💻
+-  I’m currently learning MATLAB and C++, with practical application in the aerospace industry 🛰️
+-  I’m looking to collaborate on open-sources projects, aiming to get more coding experiences 💞️
+-  How to reach me: w.aitoubahou@gmail.com or at @aitoubahou on Twitter 📫 
